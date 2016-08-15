@@ -38,6 +38,7 @@ public abstract class WordLibrary {
     /**
      * Constructor for subclasses.
      */
+    String bulba;
     protected WordLibrary() {
     }
     
